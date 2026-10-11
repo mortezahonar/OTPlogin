@@ -1,6 +1,7 @@
 <?php
 /**
  * @package     Otplogin
+ * @copyright (C) 2026 Reza Esfandiari
  * @license     GNU General Public License version 2 or later
  */
 
